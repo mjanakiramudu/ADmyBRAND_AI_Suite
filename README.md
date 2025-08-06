@@ -32,7 +32,7 @@ A modern, responsive SaaS landing page for ADmyBRAND AI Suite - Your Virtual Mar
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/admybrand-landing-page.git
+git clone https://github.com/mjanakiramudu/ADmyBRAND_AI_Suite.git
 cd admybrand-landing-page
 ```
 
